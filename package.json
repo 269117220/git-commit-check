@@ -1,0 +1,22 @@
+{
+  "name": "git-commit-check",
+  "version": "0.0.4",
+  "description": "check commit-msg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "git-commit-check": "index.js"
+  },
+  "keywords": [
+    "git",
+    "message",
+    "lint"
+  ],
+  "author": "wj",
+  "license": "ISC",
+  "dependencies": {
+    "findup-sync": "^4.0.0"
+  }
+}
