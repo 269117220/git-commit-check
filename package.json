@@ -15,6 +15,10 @@
     "lint"
   ],
   "author": "wj",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/269117220/git-commit-check"
+  },
   "license": "ISC",
   "dependencies": {
     "findup-sync": "^4.0.0"
