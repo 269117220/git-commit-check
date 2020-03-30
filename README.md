@@ -1,7 +1,7 @@
 # git-commit-check
 
 用途：对git提交的commit格式约束
-(采用[regular规范](https://github.com/angular/angular/commits/master))
+(采用[angular规范](https://github.com/angular/angular/commits/master))
 
 Usage: 
 - 安装
